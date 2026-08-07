@@ -1,0 +1,1 @@
+# versionamento-mensageria-2026
